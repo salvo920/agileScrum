@@ -1,0 +1,90 @@
+il dayli meeting e solo di aggiornamento e non di avanzamento:
+1) il topic del team e parlare di cosa e stato fatto, devi rispondere alla domanda che cosa avete chiuso ? 
+2) seconda domanda cosa prevedi di chiudere oggi ?
+3) ci sono criticità che posso impedire la riuscita ? ( valuta il team se è capace di analizzare le task e vedere le criticita e per capire quanto è sul pezzo ) 
+
+il daily meeting non è una riunione decisionale, non si decide nulla .
+Nel caso di blocco di un elemento del team, non si deve discutere durante il daily ma si appunta e si organizza un secondo meeting con i membri necessari.
+
+Fatto con una canvaborad dove è possibili visualizzare le task è piu efficace.
+
+canva significa cartellino e veniva utilizzato per il mantenimento dello stato di quantita di un magazzino 
+avere il controllo sullo stato di avanzamento dei task ci porta ad una rapida chiusura .
+piu alto è il numero di persone nel team piu è alto il numero di iterezioni, perche tutti hanno la canvaboard davanti, quando si è in team grandi si toglie la domanda cosa avete fatto ? a favore, di cosa fare oggi? 
+in genere è una strategia che si applica quando lo scrum master va fuori tempo quondi aggiunge la canva board ( board avanzamento del progetto esempio jira , youtrack )
+
+METDO AGILE 
+il metodo agile prevede di rilasciare in tempi brevi parti di valore , video link ( https://www.youtube.com/watch?v=k_ndH7B-IS4 )
+
+il valore è l'avvicinamento al goal da raggiungere attraverso feedback brevi.
+il metodo agile è adattivo, permettondoci di non prendere rischi grandi come nel waterfall perchè il cliente puo spostare l'obbiettivo finale e ovviamente aumenteranno i tempi ma prenderemo rischi bassi. 
+
+tecnina dei 5 perche viene dal mondo lean e viene usato dalla toyata per far in modo che quel problema che si è trovata ad affrontare nessuno lo debba 
+risolvere entri nel sistema e finche i parametri sono buoni si continua ad usare quel sistema 
+
+ad esempio se abbiamo una penna, la nostra azeinda non produrra tutti i pezzi ma avremo dei fornitori e noi assembreremo i pezzi  in modo estramente efficace, pero avremo una penna a 1,
+ad esempio quando la assemblo per la prima volta tra il progettare e concodarsi ci accorgiamo che qualcosa non va solo quando costrisco effettivamente la penna, se la penna non si chiude 
+non verra venduta al cliente perche non la vorra, quindi risolviamo il problema usando il metodo dei 5 perche, ( ciclo di perfettibilità del processo), risolvo il problema, nel modello lean ogni volt ache si 
+scopre che c'è qualcosa che non va si deve risolvere in modo definitivo e rapido il problema perchè quando questo avviene si blocca tutta la fabrica di assemblamento il pezzo assemblamento. 
+
+TECNICA DEI 5 PERCHE 
+
+1) focus sul problema da  descrivere nel modo piu semplice possibile, generalemnte andiamo a giustificare il perchè mentre dobbiamo andare a cercare le specifiche chiare 
+e le abbiamo solo se abbiamo un problema specifico, la soluzione deve essere assoluta per risolverlo per sempre, quindi il nostro obbiettivo e banalizzare il problema e 
+lo si fa con la formula , il problema e che le carte cadono , banalizzare significa arrivare al problema piu basico possibile e da li costruisco le soluzioni 
+
+il nostro prima problema e che le carte cadono 
+
+2)lista di tutte le cause e concause che partecipano al problema 
+
+3) prioritizzazione del problema 
+
+uno dei principi dell'agile è quello di ridurre la quantita  di lavoro e aumentare la quantitia di cose non fatte (da non fare).
+prioritizzare ci da la pobbilita di ottenere un risultato grazie al team veloce.
+per pioritizzare ci sono vari metodi(metrica) : 
+1) usando i numeri da 1 a 10: con questa metrica abbiamo in concetto di sufficenza 6/10 è poco piu di meta , 
+la distanza che c'e tra un voto e il successivo è costante rendendo la metrica uguale per tutti, ad esempio un docente che corregge i compiti di un altro 
+anche se ci sara una differenza finale dei voti la differenza sara minima. 
+metrica decimale punti principlai 8 9 10 (alto valore),e 6(sufficente) 5 4, sotto il 4 non vengono usati, perche significa una critica a qualcosa che non andava fatto o non sono corrette.
+della gestione delle metriche se no occupa lo scrum master. 
+2) fibonacci ci offre di poter lavorare sulle metriche di impatto , pero il cliente non è abituato a tecniche di impatto ma di voto.
+
+eliminare le discussioni all'interno di un team perche ci sono alcuni caretteri e prevalgono sugli altri. 
+
+
+prioritizzare i 5 perche a massimo impatto e prioritazzare le soluzioni.
+lo sprint planning equivale alla pianaificazione delle attivita in task realizzabili distribuendo e prioritizzando il lavoro.
+
+
+AGILE MANIFESTO 
+
+è basato su 12 principi e 4 valori fondamentali.
+
+i 4 valori sono: 
+1) le persone sono piu importanti dei processi se un gruppo di persone decide che un processo non va bene questo deve essere modificato.
+Auto-organizzazione delle persone cioe lascaire che le persono si costruiscano i processi per come preferiscono. che facilitano l'ottenimento della decisione concordata con il cliente 
+
+il team multiprogetot è scrum ma non è agile.
+in agile 1 cliente 1 team di lavoro.
+lo scopo è quello di ridurre al minimo la fatica nel generare il valore, non quello di ridurre il tempo, ma il tempo è sempre un effetto di quello che fai e come lo fai, il tempo non è il punto di partenza.
+ad esempio impeighi 10 ore a 100 l'ora = 1000 euro, la domanda è hai prodotto valore per 1000 euro ? 
+se riesci a farlo in meno tempo meglio, ad esempio ho tolto la documentazione e l'ho fatto in 5
+
+tutte le cose fuori dalla documentezione è responsabilità del singoloro quello di condividere con gli altri le nuove soluzioni, ad esempio aggiungerlo dentro una documentazione
+per rendere intercambiabili gli eleemnti del team indipendemenete da chi ha fatto quel pezzo. 
+L'obbiettivo e quello di costrire una sovrapposizione di competenze anche non propie, e automatizzare la documentazione per avere le linee guida da seguire.
+lo scopo è quello di rendere facile sempre l'ottenimento del risultato, i team scrum restarno a tempo indefinito anche se cambiera quelache elemento.
+i team scrum sono pagati in funzione dei risultati negli sprint , non in funzione di quante ore lavorono.
+Lo scopo del team è rendere facile il come.
+
+la collaborazione con il cliente deve essere diretta, 
+se la collaborazione con il cliente e basata sul contratto non sta collaborando, esistono dei contratti agili.
+
+L'unica cosa costante è il cambiamento , i piani sono un utile illusione la realta ci sorprenderà sempre, pianaificare in modo flessibile per adattarsi al cambiamento delle dinamiche del sistema
+duttile e modificabile velocemente.
+
+
+2) 
+3)
+4)
+

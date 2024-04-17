@@ -1,0 +1,133 @@
+fibonacci non serve per indicare in maniera precisa il valore piu giusto possibile ma nel sbagliare poco, 
+andando a creare un gap tra una difficolta e la successiva, non sappiamo valutare in maniera precisa 
+il valore ma attraverso una riflessione riusciamo a capire quel è la complessità. 
+
+fibonacci ci da la possibilita di stimare le cose, la fatica, l'impatto(non indica il tempo). 
+
+Il team con comptenze diverse spiegando il motivo del peso di un task, e come viene proposto 
+pensando alle difficolta del task,
+anche sbagliando non è un problema perche la prossima volta il task sara stimato in modo piu corretto 
+in poco tempo circa 3 mesi i membri del team si allineano al dare il giusto peso ai task.
+
+
+Video metodo agile dal punto di vista del prodct owner, link: https://www.youtube.com/watch?v=UvkJrb96SI8 . 
+
+la cosa piu difficle per un po(product owner) è negoziare con il cliente cosa non può esserre fatto.
+Se il PO fa entrare troppo lavoro, si abba il livello di qualità del risultato. 
+il PO deve garantire un risultato di valore e di qualità. 
+
+Un PO sceglie cosa far entrare.
+Un PM fa entrare tutto il lavoro possibile, perche UN PM(project manager), di logica cerca di agire 
+facendo entrare tutto il lavoro anche se questo significa abbassare il valore del prodotto. 
+
+
+IL PO si occupa di cosa deve essere fatto, facendo da filtro con cosa non deve essere realizzato.
+IL team di sviluppatori, si occupano di come realizzare qualocosa, nessuno può dire a quelle persone 
+come farlo perche sono i massimi esperti(IL team è stato costruito apposta).  
+Sfruttando questo principio si ottiene: 
+1) Valorizzazione delle compotende del team.
+2) Il team scrum è un team cross funzionale con competenze interne diverse.
+
+La squadra è un insieme di ruoli, che genera il risultato.
+Il team è l'unita di base per arrivare al risultato.
+
+
+Scrum master, il compito è quello di facilitare la capacita produttiva del team, non è importate 
+che abbia le conoscenze tencniche, deve efficente il tempo al team. 
+
+Le nostre competenze scadono, le aziende ti assumono per sviluppare nuove competenze mentre sviluppi 
+quelle vecchie. 
+
+lo SCRUM Master è sempre attento alle nuove competenze che puo acquisire nel tempo a far migliorare la qualita produttiva del team.
+
+In media uno scrum master piu gestire 3 team al massimo.
+
+un PO puo passare con il team anche 0 come tempo.
+uno SCRUM Master deve passare con il team gran parte del tempo. 
+
+Il team non mette mano a niete che non è stago gia lavorato dal PO.
+Pagina 42 le attività che fanno un PM e quelle del PO.
+
+In un team deve essere sempre presente un PO. 
+Un altro punto importante è quello di avere lo scrum master. 
+(foto PmVsPo)
+
+Lo scrum master puo anche non sapre nulla a livello tecnico ma deve essere in grado di 
+capire le relazioni e facilitare il lavoro, ( Persone laureate in Psicologica,sociologica,pedalogia, economia). In genere le figure con queste compotenze si trovano 
+dentro nel settore hr. 
+
+Per ottenere dei buoni risultati serve un certo tipo di formazione per lo scrum master, è raro trovare persone 
+che siano un ibrido tra forti comptenze tecniche e forti gestioni delle relazioni, se lo si trova 
+puo essere piazzato facilmente come scrum master. 
+
+Il team oltre a essere cross funzionale è auto-organizzato perche va in auto-assegnazione, 
+non frega a nessuno esteno al team chi porta avanti le task.
+
+Nessuno puo chiedere al team di sviluppo di lavorare a altro. 
+Solo il PO puo fare una cosa, puo abortire lo sprint.
+
+Come fa il team a costruire lo stato di avanzamento dei lavori, lo fa tramite una board. (foto canva board)
+
+le priorita vengono stabiliti dal PO.
+La quantita di lavoro appena superiore a quello delle 3 settimane precenti.
+Nessuno ti dice cosa devi fare.
+
+Lo scrum master in base alle attività scelte dal team, chiede al team se l'equilibrio delle task 
+e giusto, se il team dice di si, si va avanti con le task scelte sulla canva board, se dice no va riequilibrato.
+Esempio se un elemento del team prende 10 task dal peso 60, e un altro 1 prende 1 task dal peso 6,
+alla fine i tempi si allungano perche a fine sprint la persona che ha preso 10 task non riuscirà a chiuderli 
+tutti, e il team non arrivarà al risultato. La responsabilità di non essere arrivati al risultato è del team.
+La volta successiva il team migliorerà la sua organizzazione e ridistribuirà i carichi di lavoro per completare 
+lo sprint. 
+
+
+Protocollo definzione di fatto 
+è un insieme di regole che consnento a un membro del team, che il lavoro che ha fatto è 
+conforme alle qualita e alle logiche è conforme a quelli del risultato .
+Solo quando la definizione di fatto o il test è stato fatto allora si puo spostare quel task in done.
+Quando un task viene portato in done si certifica che un task è stato eseguito in maniera perfetta, 
+nessun altro andra a verificare se quella cosa è stata fatta bene o se ci sono altri errori 
+perche sarebbe tempo perso. 
+
+Cosa succede se un tester spostato in Done un task di una cosa che aveva dei problemi? 
+Il team releva che qualcosa non fa e si parla con il tester.
+Non è detto che io faccio tutto in modo perfetto ma posso aggiustare il tiro velocemente.
+
+
+kaizen : migliramento continuo dopo il feedback di vendita dei primi prodotti, è un feedback per migliorare 
+tutto il ciclo di vita.
+
+lavorando e vendendo riduco drasticamnete il valore e la gestione degli scarti e semilavorati nel valore dell'impresa, 
+questo ci evita la necessita di usare un magazzino.
+
+lo scopo e di sbagliare e imparare velocemente il valore di un buon errore e altissimo.
+
+4) la divsione del lavoro: avviene a fine sprint, chi è rimasto piu scarico puo andare 
+a coadivuare(aiutare) il lavoro delgi altri, questo prende il nome di swarming.
+
+La logica scrum è quella di produrre risultati velocemente.
+
+Agile nel dettaglio
+(pag 48 foto Agile Team)
+
+Product Goal: cosa dovra fare alla fine il prodotto per quel cliente e poi il PO affetta i task
+per prioritizzazzione che viene fatta insieme con il cliente dentro il prodct backlog. 
+
+SprintPlanning: riunione svolta a inzio sprint dura circa 1 ora per ogni settimana di sprint,
+in cui il PO e lo Scrum Master, definiscono e prioritizzano la scomposizione di queste attività.
+
+1 cliente 1 team 
+i membri del team sono sempre gli stessi 
+
+Sprint Review: il team apre la sprintReview dopo 28 giorni e partecipano tutti coloro che vogliono.
+chi ha interesse nel sapere come il team ha creato l'incremento e il perche.
+è li per spiegare come hanno fatto e non per giustificarsi. 
+I membri del team Raccolgono i feedback non danno giustificazioni. 
+Lo scrum master si occupa dello sprint review, il team non ha diritto di replica 
+deve accettare i feedback e segnarli.
+Dopo visto che siamo a fine sprint il team riapre il file di backlog e aggiunge i feedback appena ricevuti se brevi 
+li aggiunge in quelli realizzabili nei prossimi 2 giorni, altrimenti si portano allo sprint successivo.
+non devono essere realizzati tutti ma solo quelli scelti rilevanti.
+Il PO rimette nel backlog i feedback e riprogramma lo sprint successivo con tutti i feedback decisi dal PO.
+
+Retrospettiva: avviene ogni volta in 1 mese. 
