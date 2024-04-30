@@ -1,0 +1,90 @@
+Il product goal è l'obbiettivo che il tea  e il cliente decidono di organizzare 
+dentro il product goal abbiamo il product backlog, ovvero le task che il team deve fare. 
+Ci saranno alcuni task che saranno prioritari per il cliente e altri invece che possono essere eseguiti piu avanti, questi sono task di poco valore, 
+il cliente punta al risultato spendibile velocelemnte e il programmatore deve fare fatica per arrivare al risultato, questi due elementi devono 
+fare match per capire dove cosa fare, ecco che il product owner andra a cercare il punto di incorntro per le due parti.
+Una volta deciso cosa fare il totale viene affettato  e l'attività piu grande diventa lo spirnt goal,
+ad esempio se al cliente serve un un log delle attivita, il mese prossimo deve averlo.
+il PO divide lo sprint goal in in azioni di massimo impatto. 
+Il PO si occupa di cosa deve essere fatto.
+Per arrivare allo sprint goal i membri del team discutono di come arrivare all'obbiettivo, che verra spezzato in microtask per completarlo. 
+Le regole di scrum dicono di spirnt backlog 1 ora per ogni settimana di sprint in 1 mese ad esempio 4 sprint 4 ore. 
+Ci sono delle tecniche utilizzate per prioritizzare una di queste è fibonacci, ogni elemento del team prende un attività da fare. 
+Quando gli elementi del team singolarmente prendono i task e comunicano tra di loro come arrivare e le varie dipendenze necessarie
+con altri elementi del team, e giornalemnte(daily) allinea tutto il team di come sta procedendo.
+Un modo ottimale per gestire un team è tramite la canva board per sapere chi lo porta avanti, la stessa persona che porta avanti un task 
+scrive o esegue anche i test per verificare il valore dell'attivita prodotto.
+I test certicano agli altri mentmbri del team che il test è stato fatto e tutto è funzionante, nessun altro andra a controllare quel task. 
+La definzione di fatto continene un elemenco di cose da fare (controlli del prodotto) definiti dal team per certificare che il task è stato chiuso correttamente,
+il team è responsabile di cosa è stato certificato, il punto di scrum è che nessuno va a dire cosa fare perche siamo i massimi esperti ma scegliamo cosa fare. 
+
+Prima di rilasciare l'incremento si effettua lo sprint review, in cui saranno presenti il clinete, gli altri elementi del team,
+ e tutti coloro che hanno un interesse per l'elemnto generato. 
+
+E' una presentazione di cosa è stato fatto e come in cui il team riceve i feedback, non è un momento di giustificazioni, 
+si va alla ricerca di feedback per capire se il prodotto generato è il massimo prodotto di valore o meno. 
+Dopo aver ricevuto i feedback si va a migliorare il goal per quanto possibile, se possibile se no rilascio l'incremneto al product owner, che 
+sara lui a scegliere quando rilascirlo, in base a decisioni sue interne ad esempio il cliente non ha pagato lo sprint precendete
+quindi il prodcut owner decide di non rilasciare andandoi a incrementare il valore del prodotto per il cliente perche avremo piu tempo per aggiungere 
+tramite i feedback. 
+Alcuni feedback non sono integrabili e vengono messi nel backlog che saranno portati avanti piu avanti o saranno ignorati per motivi vari.
+Dopo che è finito uno srpint si prosegue con la retrospettiva che consente ai team scrum di evolvere velocemente, è talemnte importante 
+che i team non scrum usando questo metodo di retrospettiva da un quandro generale del team di come la vive e come la prota avanti.
+La retrospettiva è di 1 o 2 ore a settimane di sprint nel quale il team, in cui il team dice cosa è andato: 
+1) bene, perche cosi ognuno sa ccosa ha fatto bene e ha generalto un valore positivo per gli altri , quindi nome e cognome e attività di cosa ha reso.
+questo evince che il team ha una reciprocità nell'aiutare i propi elementi.
+2) cosa non è andato bene: esempio ci hanno cambiato i requisiti duranto lo sviluppo pero esendo un team agile questo va considerato,
+se questo ci crea difficolta, vanno portate avanti dei metodi alternativi per andare a cambiaare il modo di lavorare del team.
+Andando a portare in luce delle criticità che il team deve risolvere tramite delle azioni, in modo più definitivo possibile.
+Generalemnte questo viene gestito dallo scrum master che lo fa in base alla realizzabilità,  ad esempio se abbiamo un hardware vecchio,
+la soluzione e quella di comprare nuovo hardware al team, di questa realizzabilità se ne occupa lo scrum master, ad esempio lo scrum master lavora 
+per far in modo che il team nel giro di 1 mese e quindi nello sprint 3 abbia il migliramento. 
+cosa puo essere miglirato: il team lavora su cosa puo essere miglirato ma nonsu quello da massimo impatto , ma da risultato immediato. 
+
+Lo scrum master lavora per miglirare lo sprint goal , e il team lavora per realizzare qualcosa di immediato. 
+Se il team fa 1 sprint al mese e fa la retrospective il team ha 12 volte in cui può fare il cambio. 
+
+Non fare lo sprint review, ci rallenta. 
+La logica è quello di usare tutti gli strumenti che le logiche agile dicono, per far in modo da semplificare il lavoro. 
+In scrum non è il responsabile responsabile del risultato ma il team è resposabile.
+
+Performance di sufficenza del team.
+
+Nel project managment il controllo del task va fatto dal pm e va in assegnazione del lavoro che nasce 
+per avere il controllo dello stato di avanzamento del progetto, il collo di bottiglia dato dal pm e necessario e funzionale.
+Lo scopo del project Managment è quello di esercitare il controllo.
+Creare l'equilibrio in cui tutti hanno qualcosa da fare è il punto verso cui costruire. 
+i test sono un vincolo di sistema, in modo funzionale, il lavoro deve essere organizzato in modo da 
+ottenere in modo efficace il risultato. 
+Nelle diamniche agile anitcipar eil lavoro è un comportamento che non conviene usare.
+
+il motivo per cui serve la retrospettiva è che il team è occupato a fare e non si ferma a pensare, perche se penza non famo, quindi 
+in un momento di retrospettiva il tema non è occupato a fare e puo pensare a cosa attuare per migliorare il lavoro. 
+
+Lo sworming è quando un elemento del team evidenzia che non è in grado di arrivare a chiudere la task nel tempo previsto, 
+tutti coloro che in quel momento hanno delle competenze simili alle mie interrompono quello che stanno facendo andando a ottenere il risultato 
+entro i termini richiesti. 
+La possibilità di vedere il team come evoluzione della propia carriera, sperimentndo competenze diverse e cambiando ruoli, il team nasce per essere 
+totalemtne evolutivo a livello di compenteze. 
+
+
+Le competenze cambiano di anno in anno se un team non si forma per 3 anni la sua compenteza scade, quindi serve un elemento del team
+che vada a diffondere la competenza.
+
+I team altamente performanti vanno ad avere del tempo a settimana per fare auto-formazione, in modo da aumentare le propie competenze sistematicamente,
+in modo che le competenze che io genero vadano a ricadere all'interno del team. 
+
+la retrospettiva terminca con un post it molto grande con le azioni che il team deve adottare dal giorno successivo.
+Il team si ritrova nella sala e decide le zioni da intraprendere per i singoli punti dopo aver prioritizzato il: cosa non è andatao bene.
+
+Lavorare tanto non vuol dire lavorare bene, nel lavoro modermo dobbiamo cercare di fare meno fatica possibile, 
+se per ottenere il risultato stiamo facendo tanta fatica, significa che stiamo lavorando male.
+
+Il team diventa performante non è performante. c'e bisogno di storia, costruire i team e renderli stabili in modo che loro diventino stabilemnte attivi,
+cioe vadano a costruire i risultati. 
+Lo scopo è quello di rendere perfronti i team a medio e lungo termine. 
+
+in modalita agile in corso d'opera si riesce ad aggiustare le specifiche sui tempi e poter richiedere tempo in piu, e dato che si ci focalizza sul team il tea dice 
+chiamiamo il cliente e allunghiamo i tempi.  
+
+
